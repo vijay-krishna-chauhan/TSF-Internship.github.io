@@ -1,0 +1,25 @@
+h1{
+   text-align: center ;
+   color: blue;
+}
+h2{
+    text-align: center;
+}
+body {
+    background-image: url('https://images.app.goo.gl/TQ7TTXHnDuQauzmDA');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  footer {
+    text-align: center;
+    padding: 2px;
+    background-color: rgb(5, 197, 223);
+    color: rgb(255, 0, 0);
+    display: block;
+    position: fixed;
+    left: 10px;
+    bottom: 5px;
+    right: 10px;
+    
+  }
